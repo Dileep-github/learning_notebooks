@@ -51,7 +51,7 @@ pyzmq==23.0.0
 scipy==1.7.3
 seaborn==0.11.2
 setuptools==61.2.0
-sip==4.19.13
+sip==4.19.8
 six==1.16.0
 stack-data==0.2.0
 statsmodels==0.13.2
